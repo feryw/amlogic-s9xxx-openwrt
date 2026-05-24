@@ -82,10 +82,10 @@ on:
         type: choice
         options:
           - -ophub
-          - -yourname
+          - -wyref
 
 env:
-  TZ: Etc/UTC
+  TZ: Asia/Jakarta
 
 jobs:
   setup:
